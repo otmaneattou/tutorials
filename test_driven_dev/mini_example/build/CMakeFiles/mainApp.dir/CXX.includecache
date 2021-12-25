@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/LibraryCode.hpp
+
+/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/main.cpp
+iostream
+-
+LibraryCode.hpp
+/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/LibraryCode.hpp
+

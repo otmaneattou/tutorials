@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule"
+		},
+		{
+			"file" : "/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

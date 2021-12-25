@@ -1,0 +1,3 @@
+/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
+/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/otmane/Desktop/tutorial_cpp/tutorials_cpp/test_driven_dev/mini_example/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
