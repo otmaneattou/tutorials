@@ -2,7 +2,7 @@
 
 The following commands are used to run the tests located in test.cpp
 '''
-$ cd /build
+cd /build
 
 $ cmake ..
  
