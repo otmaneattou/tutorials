@@ -2,13 +2,13 @@
 
 The following commands are used to run the tests located in test.cpp
 '''
-> $ cd /build
+$ cd /build
 
-> $ cmake ..
+$ cmake ..
  
-> $ make
+$ make
 
-> $ ./mainApp #Execute the app
+$ ./mainApp #Execute the app
 
-> $ ./testRunner #Execute the tests
+$ ./testRunner #Execute the tests
 '''
