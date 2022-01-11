@@ -4,7 +4,7 @@
 
 The goal of this pattern is to expose several compenents through a single interface.
 
-### Motivation (House building as an exemple)
+### Motivations (House building as an exemple)
 
 Building a house is a balancing complexity between presentation and usability.
 
