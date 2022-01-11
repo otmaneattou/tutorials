@@ -1,8 +1,11 @@
-This is an example of how to write an unit test by using google test.
+This is an example of how to do an unit test using google test.
 
 To compile this project, you have to use these commands:
 
-$ cd build
+```bash
+cd build
+```
+
 $ cmake ..
 $ make
 $ ./mainApp #To run the app
